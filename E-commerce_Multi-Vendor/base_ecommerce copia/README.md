@@ -1,16 +1,18 @@
 # base_ecommerce
 
-A new Flutter project.
+This is the multi-vendor application user side.
 
-## Getting Started
+## Multi-vendor Mobile application
 
-This project is a starting point for a Flutter application.
+Here you can see some illustrations of what you will get
 
-A few resources to get you started if this is your first Flutter project:
+# Buyer Side
+![Home page Multi-vendor buyer side](../../images/multivendor/buyer_autentication_screens.png)
+![Home page Multi-vendor buyer side](../../images/multivendor/buyer_nav_screens_1.png)
+![Home page Multi-vendor buyer side](../../images/multivendor/buyer_nav_screens_2.png)
+![Home page Multi-vendor buyer side](../../images/multivendor/buyer_inner_screens_1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Vendor Side
+![Home page Multi-vendor buyer side](../../images/multivendor/vendor_autentication_screens.png)
+![Home page Multi-vendor buyer side](../../images/multivendor/vendor_upload_screens.png)
+![Home page Multi-vendor buyer side](../../images/multivendor/vendor_navigation_screens_old.png)
